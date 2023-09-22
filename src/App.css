@@ -1,0 +1,18 @@
+.App {
+  min-height: 100vh;
+}
+
+.card-container {
+  margin: 40px auto;
+  padding: 30px;
+  width: 70vw;
+  max-width: 1000px;
+}
+
+.text-container {
+  padding: 10px;
+}
+
+.subtitle__text {
+  color: grey;
+}
